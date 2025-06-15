@@ -55,4 +55,4 @@ MIT License - bebas digunakan & dimodifikasi untuk tujuan apa pun. Lihat [LICENS
 
 ## 🔗 Demo Online
 Kunjungi game ini secara online:  
-👉 [fitcheck.streamlit.app](https://fitcheck.streamlit.app/)
+👉 [quick-math-challenge.streamlit.app](https://quick-math-challenge.streamlit.app/)
